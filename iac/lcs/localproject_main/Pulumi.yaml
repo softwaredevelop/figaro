@@ -1,0 +1,5 @@
+name: trade
+runtime: go
+description: A local source Go Pulumi program for Figaro scripts
+options:
+    refresh: always
